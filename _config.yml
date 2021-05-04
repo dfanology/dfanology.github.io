@@ -1,1 +1,9 @@
 theme: minima
+minima:
+  skin: dark
+  
+title: Daniel's page
+
+header_pages:
+  - about.md
+  - scitech.md
