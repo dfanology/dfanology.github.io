@@ -5,8 +5,8 @@ minima:
 title: Daniel's page
 
 header_pages:
-  - about.html
-  - scitech.html
+  - about.md
+  - scitech.md
 
 author:
   name: Daniel Fan
