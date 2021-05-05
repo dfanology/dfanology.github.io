@@ -15,8 +15,6 @@ Years later, during the Cultural Revolution (1966-1976), the country was in turm
 
 
 ---
+\
 
-
-Dad tells me that the great Tang dynasty poet Li Bai, whose name means “white”, was born at Lake Baikal, in Siberia, far outside the borders of the empire (I later found out this wasn’t true, but it is so memorable that “white” was born in the snows of Baikal). Many years after I traveled throughout Africa and discovered that Pushkin’s grandfather had been a slave, brought from Ethiopia, and that the only memorial in all of Africa dedicated to Pushkin was in Addis Ababa…
-
-[Back](../stories.md)
+Dad tells me that the great Tang dynasty poet Li Bai, whose name means “white”, was born at Lake Baikal, in Siberia, far outside the borders of the empire (I later found out this wasn’t true, but it is so memorable that “white” was born in the snows of Baikal). Many years after I traveled throughout Africa and discovered that Pushkin’s grandfather had been a slave, brought from Ethiopia, and that the only memorial in all of Africa dedicated to Pushkin was in Addis Ababa...
