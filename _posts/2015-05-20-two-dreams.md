@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Dreams
+title: Two dreams
 ---
 
 I had two dreams recently which stuck to the mind. In the first, I had some sort of a special power, and was confronting my arch-nemesis, a girl who also had some sort of a special power. I can’t recall exactly what these powers were, something to do with being able to change the others perception of things (this dream may be related to the fact that I had been reading the Prose Edda and the stories of Julio Cortazar at the time).
