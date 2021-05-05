@@ -85,7 +85,12 @@ I took the refractive indices from a whole bunch of suitable materials for EUV f
 
 ![EUVIL3](/images/EUVIL3.png)*Fig. 3: Left, maximum 1st order diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm. Right, 1st order diffraction efficiency of gratings targeting 6 nm half-pitch on sample wafer for various materials. Each of these plots on the right graph was performed for all the materials and periodicities on the left graph and the maximum value plotted.*
 
+The fabrication limitations for certain grating periodicities together with possible materials is summarised below:
 
+| Periodicity | Material | Technique | Notes |
+|:------------|:--------:|:---------:|------:|
+| > 80 nm | Metals (Au, Cr, Ni) | LIGA or RIE | Limited by pattern transfer |
+| 40 - 80 nm | HSQ | Direct e-beam written grating | Diffraction efficiency drops below 40 nm |
 
 
 # Photoresist chemistry
