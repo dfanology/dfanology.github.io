@@ -8,9 +8,8 @@ show_excerpts: true
 
 minima:
   date_format: "%d %b %Y"
-  social_links:
-    instagram: dfanology
-    linkedin: daniel-fan-2a925914
+  instagram: dfanology
+  linkedin: daniel-fan-2a925914
 
 header_pages:
   - about.md
