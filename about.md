@@ -11,20 +11,20 @@ A short resume is listed below while some projects are described in more detail 
 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en){:target="_blank"}
 
-### Personal Details
+### **Personal Details**
 
 Email: dfanology@protonmail.com\
 Residence: The Netherlands\
 Nationality: Australian
 
-### Education
+### **Education**
 
 D.Sc. Materials Science, ETH Zurich, Switzerland (2013-2017)\
 M.Sc. Micro and Nano Systems, ETH Zurich, Switzerland (2009-2011)\
 B.Sc. Mathematics, University of Melbourne, Australia (2001-2005)\
 B.Eng. Electrical Engineering (Honours), University of Melbourne, Australia (2001-2005)
 
-### Research Experience
+### **Research Experience**
 
 #### <u>Post-Doctoral Researcher (2020-current)</u>
 
@@ -88,7 +88,7 @@ _University of Melbourne, Australia_
 
 + Software development of artificial intelligence algorithms used for analysis of NMR spectrographs.
 
-### Professional Experience
+### **Professional Experience**
 
 #### <u>Consultant Electrical Engineer (2007-2009)</u>
 
@@ -105,13 +105,13 @@ _John Holland Pty. Ltd., Australia_
 +	On-site supervision of construction crew at RG Tanna and Dalrymple Bay coal terminals.
 +	Procurement, quality assurance, and commissioning including hazardous areas.
 
-### Teaching Experience
+### **Teaching Experience**
 
 + Guest lecturer, Micro and Nano Manufacturing, TU Delft, Netherlands 2018-2020
 + Supervision of M.Sc. final thesis students, TU Delft, Netherlands 2018-present
 + Tutor in conversational English, Wuhan University, China, 2006
 
-### Conference Presentations
+### **Conference Presentations**
 
 + Materials Research Symposium, Fall Meeting - talk; Boston, U.S.A., 2016
 + Low Dimensional Structures and Devices - best talk; Maya Riviera, Mexico, 2016
@@ -121,7 +121,7 @@ _John Holland Pty. Ltd., Australia_
 + IEEE 3M NANO - best paper; Taipei, Taiwan, 2014
 + Micro Nano Engineering - best poster; Lausanne, Switzerland, 2014
 
-### Volunteer Experience
+### **Volunteer Experience**
 
 + Samos Volunteers: clothing distribution in a refugee camp; Greece, 2015
 + Caritas: farmhand in the Swiss alps; Switzerland, 2010
@@ -131,8 +131,8 @@ _John Holland Pty. Ltd., Australia_
 + Cochlear Institute: electronics soldering; Australia, 1999
 + Australian Air Training Corps: cadet; Australia, 1997-2000
 
-### Languages
+### **Languages**
 
-* English (native)
-* Chinese Mandarin (fluent)
-* German (intermediate)
+English (native)\
+Chinese Mandarin (fluent)\
+German (intermediate)
