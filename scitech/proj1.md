@@ -3,6 +3,7 @@ layout: page
 title: EUV interference lithography produces world record resolution
 ---
 
+{:.no_toc}
 {:toc}
 
 ## Concept
