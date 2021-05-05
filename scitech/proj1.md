@@ -33,7 +33,9 @@ Next, experimental methods are presented to push the above equation to its techn
 
 Synchrotron light is a source of electromagnetic radiation produced from a electron storage ring. Together with free electron lasers, they can produce very high brilliance x-ray radiation tunable from meV to MeV as well as high polarisation, high **collimation**, low emittance, and most importantly for us, high **coherence**.
 
-The XIL-II beamline at the Swiss Light Source (3rd generation, 2.4 GeV synchrotron source) is composed of a linear undulator with 22 permanent magnet pairs with adjustable gap allowing energies of between 70 eV (~17.7 nm) to 500 eV (~2.48 nm). Three mirrors filter out higher harmonics while steering the beam into a 70 μm pinhole, which acts as a source. This source then travels 12 m via a shutter to impinge on the transmission mask with a spot size of ~1.2 x 1.8 mm<sup>2</sup>. The imaging wafer with photoresist is typically placed ~150 μm further on. Therefore, the imaging system will have a component due to extension of the source, resulting in blur.
+![Beamline](EUVIL2.png)*Fig. 2: XIL-II beamline, SLS, has a tunable undulator, filtering mirrors, and a pinhole as source. A shutter is located between pinhole and mask (not shown)*
+
+The XIL-II beamline at the Swiss Light Source (3rd generation, 2.4 GeV synchrotron source) is composed of a linear undulator with 22 permanent magnet pairs with adjustable gap allowing energies of between 70 eV (~17.7 nm) to 500 eV (~2.48 nm). Three mirrors filter out higher harmonics while steering the beam into a 70 μm pinhole, which acts as a source. This source then travels 12 m via a shutter to impinge on the transmission mask with a spot size of ~1.2 x 1.8 mm<sup>2</sup>. The imaging wafer with photoresist is typically placed ~150 μm further on. Therefore, the imaging system will have a component due to extension of the source, resulting in blur. For the above parameters, a gap between mask and image of 550 μm will result in a blur in the image of ~3 nm, while gap = 150 μm gives a blur of ~1 nm.
 
 $$
 \begin{align*}
@@ -41,7 +43,17 @@ $$
 \end{align*}
 $$
 
-where $$s<sub>ext</sub>$$ is the size of the source extension on the image, $$s$$ is the size of the source (in this case 70 um), $$g$$ is the mask to image distance, and $$L$$ is the source to mask distance.
+where $$s<sub>ext</sub>$$ is the size of the source extension on the image, $$s$$ is the size of the source (in this case 70 um), $$g$$ is the mask to image distance, and $$L$$ is the source to mask distance. From this equation it can be seen that to minimise source extension i.e. the blur, the image should be close to the mask and/or the source far away from the mask and/or the size of the source (i.e. pinhole) should be small. This results in a number of practical tradeoffs:
+
+- A small pinhole means less light intensity resulting in longer exposure times meaning mechanical stability of the setup comes into play.
+- Since the wavelength, target pattern periodicity, and therefore grating periodicity are set, the diffraction angle is set. Therefore, decreasing the mask to image distance means that the field of view becomes smaller and smaller as the central beam stop needs to be made smaller and smaller.
+- If the pinhole to mask distance is too large, a similar loss in light flux occurs as the beams is now spread out over a larger spot area.
+
+For a target periodicity of 6 nm half-pitch, the presented arrangement results in ~1 nm blur (17%) without taking into account mechanical vibrations.
+
+# Mechanical stability
+
+Assuming the beam is stable (this may not be the case, as the optical components along the beam path might be isolated badly) then 
 
 # Transmission mask
 
