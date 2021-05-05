@@ -5,9 +5,8 @@ title: Media
 
 ## May 2021
 ---
-{:refdef: style="text-align: center;"}
-![Stars](/images/stars.jpg)
-{:refdef}
+
+![Stars](/images/stars.jpg){: style="text-align:center;"}
 
 "Leave thy home, O youth, and seek out alien shores ... Yield not to misfortune: the far-off Danube shall know thee, the cold North-wind and the untroubled kingdom of Canopus and the men who gaze on the new birth of Phoebus or upon his setting ..."  -- Petronius
 
