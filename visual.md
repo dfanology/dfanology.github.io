@@ -3,4 +3,4 @@ layout: page_nav_dark
 title: Media
 ---
 
-Hello media!
+![Snow](/images/snowtracks.png)
