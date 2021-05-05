@@ -100,7 +100,7 @@ The fabrication limitations for certain grating periodicities together with poss
 The fabrication strategy to push the resolution limit is as follows:
 
 - Using HSQ together with e-beam lithography, write 12 nm lines with 48 nm periodicity. This relaxation of the periodicity mitigates to some degree the electron proximity effect in e-beam, where scattered electrons limit the e-beam resolution. HSQ is also the highest resolution e-beam negative tone photoresist available. By choosing a very small e-beam current and aperture (to decrease the spot size), the e-beam can be coaxed into writing well resolved grating lines with line-widths of 12 nm and good profile.
-- The zero-th order beam block is fabricated by overlaying a second e-beam exposure together with PMMA and using LIGA process where Cr/Au is evaporated and Ni is electroplated on top after lift-off.
+- The 0<sup>th</sup> order beam block is fabricated by overlaying a second e-beam exposure together with PMMA and using LIGA process where Cr/Au is evaporated and Ni is electroplated on top after lift-off.
 - Conformal Ir is coated on the 12/48 nm HSQ grating using plasma enhanced ALD. Plasma enhanced improves surface quality of the deposited material by lowering grain size and deposition rate. The target is 12 nm of Ir deposition.
 - The final Ir coating is ion milled using Ar which is highly directional, removing the top and bottom Ir but leaving the Ir on the sidewalls of the HSQ, resulting in a line doubled grating of ideally 12 nm of Ir (1st sidewall), 12 nm of HSQ (line), 12 nm of Ir (2nd sidewall), 12 nm of air (space).
 
