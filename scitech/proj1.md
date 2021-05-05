@@ -27,7 +27,15 @@ where $$p$$ is the periodicity of the image, $$q$$ is the periodicity of the gra
 2. The image is independent of wavelength. As the wavelength changes so does the diffraction angle, but the $$k$$ vector parallel to the plane remains the same. Therefore the periodicity of the image is fixed by the grating periodicity.
 3. The resolution limit occurs at $$\theta = 90\unicode{xB0}$$ (for the first diffraction order $$m = 1$$) which corresponds to 6.75 nm  for EUV wavelength (i.e. 3.325 nm half-pitch).
 
-Next, experimental methods are presented to push the above equation to its technical limit.
+Also, note that the distance between grating centers, $$d$$, is related to the gap between mask and sample, $$g$$, by the diffraction angle $$\theta$$:
+
+$$
+\begin{align*}
+  & g = \frac{d}{2\tan\theta}
+\end{align*}
+$$
+
+Thus the gratings need to be close enough together so that the beam spot falls on them, be far enough apart such that interference area is not overlapping with the zero-order transmitted light from the grating areas, and large enough in area for interference to actually happen. Since EUV-IL is Next, experimental methods are presented to push the above equation to its technical limit.
 
 # Beamline optics
 
