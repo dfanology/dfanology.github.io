@@ -13,7 +13,7 @@ Note that it is also possible to produce interference patterns from incoherent s
 
 ![EUVIL](EUVIL1.png)
 
-The Bragg equation gives:\
+The Bragg equation gives:
 
 $$
 \begin{align*}
@@ -21,7 +21,7 @@ $$
 \end{align*}
 $$
 
-where p is the periodicity of the image, q is the periodicity of the grating, \(\lambda\) 
+where p is the periodicity of the image, q is the periodicity of the grating, $$\lambda$$ is the wavelength, $$\theta$$ is the diffraction angle, and m is the diffraction order (0, 1, 2, ...)
 
 # Beamline optics
 
