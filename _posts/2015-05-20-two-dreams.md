@@ -15,9 +15,9 @@ I was feeling good, completely aware of everything around me, and the powers I h
 
 We looked into each other’s eyes. She still had that annoying half-smile and her eyes were like two dark pools of unfathomable depth. We stared for quite a while at each other. Then she blinked, and I awoke to the cool night air. The window had been left open, and the dark mass of the French alps seemed to loom closer than they do during the day, and the Lake of Geneva seemed to plunge deeper than it appears to in the sunlight.
 
-&nbsp
+&nbsp;
 ---
-&nbsp
+&nbsp;
 
 The second dream concerns an essay I had read, written by Stephen Jay Gould, on the slowing of the earth’s rotation due to tidal friction. The Astronomer Royal of England, Edmund Halley, first noticed the discrepancy between records of observed eclipses and their predicted coverage on the earth’s surface, assuming a constant rate of rotation of the earth. This could be taken into account if the earth had spun faster in the past and then slowed down, and the best explanation for this gradual slowing, supplied by Immanuel Kant, was tidal friction due to the gravitational effects of the moon.
 
