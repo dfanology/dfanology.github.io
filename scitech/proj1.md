@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: EUV interference lithography produces world record resolution
 ---
 
