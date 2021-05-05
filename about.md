@@ -7,6 +7,10 @@ I am currently a scientific researcher broadly in the fields of nanoscience, opt
 
 A short resume is listed below while some projects are described in more detail under "Portfolio". 
 
+### **Publications**
+
+A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en){:target="_blank"}
+
 ### Personal Details
 
 Email: dfanology@protonmail.com\
@@ -19,10 +23,6 @@ D.Sc. Materials Science, ETH Zurich, Switzerland (2013-2017)\
 M.Sc. Micro and Nano Systems, ETH Zurich, Switzerland (2009-2011)\
 B.Sc. Mathematics, University of Melbourne, Australia (2001-2005)\
 B.Eng. Electrical Engineering (Honours), University of Melbourne, Australia (2001-2005)
-
-### Publications
-
-A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en){:target="_blank"}
 
 ### Research Experience
 
