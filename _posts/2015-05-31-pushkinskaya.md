@@ -13,7 +13,6 @@ Years later, during the Cultural Revolution (1966-1976), the country was in turm
 
 “Many of the historical sites and statues around here were destroyed,” says Dad. It is late evening and we are still within the French concession, strolling through the quiet, neighbourly streets. All the foreign statues and inscriptions here were smashed and defaced. Only one survived. A bust of Pushkin, in memory of that famous poet, originally erected by the White Russians between the wars. We were standing in front of it under the orange sodium lights, as Dad finished his story, first told to him by my Grandmother.
 
-&nbsp;
 ---
 &nbsp;
   
