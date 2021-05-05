@@ -102,6 +102,8 @@ The fabrication strategy to push the resolution limit is as follows:
 - Conformal Ir is coated on the 12/48 nm HSQ grating using plasma enhanced ALD. Plasma enhanced improves surface quality of the deposited material by lowering grain size and deposition rate. The target is 12 nm of Ir deposition.
 - The final Ir coating is ion milled using Ar which is highly directional, removing the top and bottom Ir but leaving the Ir on the sidewalls of the HSQ, resulting in a line doubled grating of ideally 12 nm of Ir (1st sidewall), 12 nm of HSQ (line), 12 nm of Ir (2nd sidewall), 12 nm of air (space).
 
+![EUVIL4](EUVIL4.png)
 
+The result is shown in figure 4 above. Further removal of the HSQ via HF dip was considered risky in causing pattern collapse and so was avoided, however a F based plasma etch might be one way to remove the HSQ and further improve the diffraction efficiency. Although I have briefly outlined the fabrication procedure above, the actual work requires much care in every step, from ensuring absolutely clean beakers, to making sure the droplet of water supporting the SiN membrane during spin-coating is not contaminated, to making sure the SiN membranes themselves where patterned exactly along the wafer crystal planes as any error would result in warped membranes due to stress caused by rough membrane edges. A short list of clean-room / nanofabrication tips and tricks can be found here.
 
 # Photoresist chemistry
