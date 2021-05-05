@@ -45,11 +45,11 @@ $$
 \end{align*}
 $$
 
-where $$s_{ext}$$ is the size of the source extension on the image, $$s$$ is the size of the source (in this case 70 um), $$g$$ is the mask to image distance, and $$L$$ is the source to mask distance. From this equation it can be seen that to minimise source extension i.e. the blur, the image should be close to the mask and/or the source far away from the mask and/or the size of the source (i.e. pinhole) should be small. This results in a number of practical tradeoffs:
+where $$s_{ext}$$ is the size of the source extension on the image, $$s$$ is the size of the source (in this case 70 μm), $$g$$ is the mask to image distance, and $$L$$ is the source to mask distance. From this equation it can be seen that to minimise source extension i.e. the blur, the image should be close to the mask and/or the source far away from the mask and/or the size of the source (i.e. pinhole) should be small. This results in a number of practical tradeoffs:
 
 - A small pinhole means less light intensity resulting in longer exposure times meaning mechanical stability of the setup comes into play.
+- If the pinhole to mask distance is too large, a similar loss in light flux occurs as the beam is now spread out over a larger spot area.
 - Since the wavelength, target pattern periodicity, and therefore grating periodicity are set, the diffraction angle is set. Therefore, decreasing the mask to image distance means that the field of view becomes smaller and smaller as the central beam stop needs to be made smaller and smaller.
-- If the pinhole to mask distance is too large, a similar loss in light flux occurs as the beams is now spread out over a larger spot area.
 
 For a target periodicity of 6 nm half-pitch, the presented arrangement results in ~1 nm blur (17%) without taking into account mechanical vibrations.
 
