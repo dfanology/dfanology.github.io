@@ -14,8 +14,14 @@ Note that it is also possible to produce interference patterns from incoherent s
 ![EUVIL](EUVIL1.png)
 
 The Bragg equation gives:\
-<img src="https://render.githubusercontent.com/render/math?math=p = \frac{\lambda}{2\sin\theta} = \frac{q}{2m}">\
-where p is the periodicity of the image, q is the periodicity of the grating, $\lambda$ 
+
+$$
+\begin{align*}
+  & p = \frac{\lambda}{2\sin\theta} = \frac{q}{2m}
+\end{align*}
+$$
+
+where p is the periodicity of the image, q is the periodicity of the grating, $$\lambda$$ 
 
 # Beamline optics
 
