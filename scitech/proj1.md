@@ -87,13 +87,15 @@ I took the refractive indices from a whole bunch of suitable materials for EUV f
 
 The fabrication limitations for certain grating periodicities together with possible materials and techniques is summarised below:
 
+<span style="font-size: 80%;">
 | Target half-pitch | Grating Periodicity | Material | Technique | Limitations |
 |:----------|:------------|:---------|:----------|:------------|
 | > 20 nm | > 80 nm | Metals (Au, Cr, Ni, etc.) | LIGA or RIE | Limited by pattern transfer |
 | 10 - 20 nm | 40 - 80 nm | HSQ | Direct e-beam written grating | Diffraction efficiency drops below 40 nm |
 | 8 nm | 64 nm | Mo | ICP-RIE + 2nd order diffraction | Etching optimisation very difficult |
 | 7 nm | 28 nm | HfO<sub>2</sub> and SnO<sub>2</sub> | Direct e-beam written grating | E-beam electron proximity effect |
-| **6 nm** | **48 nm** | **HSQ lines + Ir** | **Grating line doubling by conformal ALD followed by ion milling** | **Best candidate to reach resolution limit of EUV-IL (3.5 nm)** |
+| **6 nm** | **48 nm** | **HSQ lines + Ir** | **Grating line doubling by conformal ALD followed by ion milling** | **Best candidate to reach resolution limit of EUV-IL (3.5 nm half-pitch)** |
+</span>
 
 The fabrication strategy to push the resolution limit is as follows:
 
