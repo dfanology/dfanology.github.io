@@ -21,7 +21,7 @@ $$
 \end{align*}
 $$
 
-where p is the periodicity of the image, q is the periodicity of the grating, $$\lambda$$ 
+where p is the periodicity of the image, q is the periodicity of the grating, \(\lambda\) 
 
 # Beamline optics
 
