@@ -130,8 +130,8 @@ _John Holland Pty. Ltd., Australia_
 + Institute of Engineering and Technology: member; U.K., 2001-2017
 + Cochlear Institute: electronics soldering; Australia, 1999
 + Australian Air Training Corps: cadet; Australia, 1997-2000
-<br>
-### **Languages**
+
+### Languages
 
 English (native)  
 Chinese Mandarin (fluent)  
