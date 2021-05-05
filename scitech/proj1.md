@@ -94,6 +94,7 @@ The fabrication limitations for certain grating periodicities together with poss
 | 8 nm | 64 nm | Mo | ICP-RIE + 2nd order diffraction | Etching optimisation very difficult |
 | 7 nm | 28 nm | HfO<sub>2</sub> and SnO<sub>2</sub> | Direct e-beam written grating | E-beam electron proximity effect |
 | **6 nm** | **48 nm** | **HSQ lines + Ir** | **Grating line doubling by conformal ALD followed by ion milling** | **Best candidate to reach resolution limit of EUV-IL (3.5 nm half-pitch)** |
+{: style="font-size: 80%;"}
 
 The fabrication strategy to push the resolution limit is as follows:
 
