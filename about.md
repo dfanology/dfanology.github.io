@@ -15,7 +15,7 @@ A list of my publications can be found [here](https://scholar.google.com/citatio
 
 ### Personal Details
 
-Name: Daniel Fan
+Name: Daniel Fan  
 Email: <dfanology@protonmail.com>  
 Residence: The Netherlands  
 Nationality: Australian
