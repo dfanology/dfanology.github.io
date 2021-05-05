@@ -7,10 +7,10 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
   <div class="side-nav">
+    {% include toc.html html=content ordered=true %}
   </div>
   <div class="post-content">
     {{ content }}
-    {% include toc.html html=content %}
   </div>
 
 </article>
