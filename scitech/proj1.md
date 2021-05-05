@@ -5,7 +5,7 @@ title: EUV interference lithography produces world record resolution
 
 {:.no_toc}
 {:toc}
-
+# What?
 ## Concept
 
 Interference lithography relies on the recording in photoresist of the interference pattern produced from the intersection of two light beams. The first such systems used a mirror (in Lloyd's configuration) and a coherent laser source. Here the concept is extended in 2016 to it's technological limits: by using a spatially and temporally coherent x-ray light beam produced from a synchrotron source combined with a transmission diffraction grating to produce the interference pattern.
