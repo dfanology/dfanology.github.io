@@ -20,4 +20,3 @@ header_pages:
 
 theme: minima
 markdown: kramdown
-  auto_ids: true
