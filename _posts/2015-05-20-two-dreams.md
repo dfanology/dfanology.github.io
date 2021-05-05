@@ -1,3 +1,8 @@
+---
+layout: blog
+title: Two Dreams
+---
+
 I had two dreams recently which stuck to the mind. In the first, I had some sort of a special power, and was confronting my arch-nemesis, a girl who also had some sort of a special power. I can’t recall exactly what these powers were, something to do with being able to change the others perception of things (this dream may be related to the fact that I had been reading the Prose Edda and the stories of Julio Cortazar at the time).
 
 I remember the dream being quite intricate itself, but the crux was when I challenged my nemesis to a final duel. I arrogantly told her that no matter what spell she cast, what trick she tried, I would be able to see through it with clarity, and escape the snare with ease.
@@ -10,7 +15,7 @@ I was feeling good, completely aware of everything around me, and the powers I h
 
 We looked into each other’s eyes. She still had that annoying half-smile and her eyes were like two dark pools of unfathomable depth. We stared for quite a while at each other. Then she blinked, and I awoke to the cool night air. The window had been left open, and the dark mass of the French alps seemed to loom closer than they do during the day, and the Lake of Geneva seemed to plunge deeper than it appears to in the sunlight.
 
-—
+---
 
 The second dream concerns an essay I had read, written by Stephen Jay Gould, on the slowing of the earth’s rotation due to tidal friction. The Astronomer Royal of England, Edmund Halley, first noticed the discrepancy between records of observed eclipses and their predicted coverage on the earth’s surface, assuming a constant rate of rotation of the earth. This could be taken into account if the earth had spun faster in the past and then slowed down, and the best explanation for this gradual slowing, supplied by Immanuel Kant, was tidal friction due to the gravitational effects of the moon.
 
