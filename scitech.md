@@ -3,7 +3,7 @@ layout: page_nav
 title: Science
 ---
 
-## Science and Technology Notes
+## Science / Technology
 
 ### EUV lithography
 
