@@ -74,4 +74,13 @@ Assuming the beam is fairly stable (this may not be the case, as the optical com
 
 # Transmission mask
 
+There are two main design choices for fabricating a suitable transmission mask. Let's say we are targeting a half-pitch of 6 nm on the sample wafer. This means we need to fabricate diffraction gratings with half-pitch of 12 nm. We need to choose:
+
+1. Grating material: choice of material affects diffraction efficiency as well as ease of pattern transfer and fabrication.
+2. Patterning method: for such high-resolution diffraction gratings, e-beam lithography is the only choice for initial patterning. There are some procedures to optimise its use. Some fabrication tricks can be used to further increase the grating periodicity.
+
+Because the diffraction grating dimensions are similar to the EUV wavelength, rigorous methods need to be used for optical calculations as the scalar diffraction theory breaks down. I used RCWA, a numerical method suitable for periodic structures (in particular I used the [RODIS](https://www.photonics.intec.ugent.be/research/facilities/design/rodis/default.htm) package from University of Gent). A more detailed discussion on EUV diffraction optics can be found elsewhere.
+
+I took the refractive indices from a whole bunch of suitable materials from the Lawrence Berkeley Center for X-ray Optics [website](https://henke.lbl.gov/optical_constants/) for EUV. Then I 
+
 # Photoresist chemistry
