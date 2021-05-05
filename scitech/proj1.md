@@ -1,6 +1,6 @@
 ---
 layout: page_nav
-title: EUV interference lithography produces world record resolution using photons
+title: EUV-IL produces world record photolithography resolution
 ---
 
 # Concept
