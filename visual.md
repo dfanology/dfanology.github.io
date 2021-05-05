@@ -1,4 +1,4 @@
 ---
 layout: page_nav
-title: Audiovisual
+title: Audio / Visual
 ---
