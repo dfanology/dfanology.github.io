@@ -81,13 +81,12 @@ There are two main design choices for fabricating a suitable transmission mask. 
 
 Because the diffraction grating dimensions are similar to the EUV wavelength, rigorous methods need to be used for optical calculations as the scalar diffraction theory breaks down. I used RCWA, a numerical method suitable for periodic structures (in particular I used the [RODIS](https://www.photonics.intec.ugent.be/research/facilities/design/rodis/default.htm) package from University of Gent). A more detailed discussion on EUV diffraction optics can be found elsewhere.
 
-I took the refractive indices from a whole bunch of suitable materials for EUV from the Lawrence Berkeley Center for X-ray Optics [website](https://henke.lbl.gov/optical_constants/). Then I simulated the 1st order diffraction efficiency for different grating duty cycles with grating heights up to 200 nm (anything higher would result in very large aspect ratios of the structures causing their collapse). The maximum diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm is plotted below in figure 3.
+I took the refractive indices from a whole bunch of suitable materials for EUV from the Lawrence Berkeley Center for X-ray Optics [website](https://henke.lbl.gov/optical_constants/). Then I simulated the 1st order diffraction efficiency for different grating duty cycles with grating heights up to 200 nm (anything higher would result in very large aspect ratios of the structures causing their collapse). The maximum diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm is plotted below in figure 3, left. The diffraction efficiencies calculated for various duty cycles and heights for HSQ and conformally deposited Ir, targeting a 6 nm half-pitch image, is shown in figure 3, right, and was the fabrication strategy used as described in the following section.
 
 ![EUVIL3](EUVIL3.png)*Fig. 3: Left, maximum 1st order diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm. Right, 1st order diffraction efficiency of gratings targeting 6 nm half-pitch on sample wafer for various materials. Each of these plots on the right graph was performed for all the materials and periodicities on the left graph and the maximum value plotted.*
 
 The fabrication limitations for certain grating periodicities together with possible materials and techniques is summarised below:
 
-<p style="font-size: 80%;">
 | Target half-pitch | Grating Periodicity | Material | Technique | Limitations |
 |:----------|:------------|:---------|:----------|:------------|
 | > 20 nm | > 80 nm | Metals (Au, Cr, Ni, etc.) | LIGA or RIE | Limited by pattern transfer |
@@ -95,12 +94,11 @@ The fabrication limitations for certain grating periodicities together with poss
 | 8 nm | 64 nm | Mo | ICP-RIE + 2nd order diffraction | Etching optimisation very difficult |
 | 7 nm | 28 nm | HfO<sub>2</sub> and SnO<sub>2</sub> | Direct e-beam written grating | E-beam electron proximity effect |
 | **6 nm** | **48 nm** | **HSQ lines + Ir** | **Grating line doubling by conformal ALD followed by ion milling** | **Best candidate to reach resolution limit of EUV-IL (3.5 nm half-pitch)** |
-</p>
 
 The fabrication strategy to push the resolution limit is as follows:
 
 - Using HSQ together with e-beam lithography, write 12 nm lines with 48 nm periodicity. This relaxation of the periodicity mitigates to some degree the electron proximity effect in e-beam, where scattered electrons limit the e-beam resolution. HSQ is also the highest resolution e-beam negative tone photoresist available. By choosing a very small e-beam current and aperture (to decrease the spot size), the e-beam can be coaxed into writing well resolved grating lines with line-widths of 12 nm and good profile.
-- The 0<sup>th</sup> order beam block is fabricated by overlaying a second e-beam exposure together with PMMA and using LIGA process where Cr/Au is evaporated and Ni is electroplated on top after lift-off.
+- The 0<sup>th</sup> order beam block is fabricated by overlaying a second e-beam exposure together with PMMA and using the LIGA process where Cr/Au is evaporated and lifted-off and Ni is electroplated on top.
 - Conformal Ir is coated on the 12/48 nm HSQ grating using plasma enhanced ALD. Plasma enhanced improves surface quality of the deposited material by lowering grain size and deposition rate. The target is 12 nm of Ir deposition.
 - The final Ir coating is ion milled using Ar which is highly directional, removing the top and bottom Ir but leaving the Ir on the sidewalls of the HSQ, resulting in a line doubled grating of ideally 12 nm of Ir (1st sidewall), 12 nm of HSQ (line), 12 nm of Ir (2nd sidewall), 12 nm of air (space).
 
