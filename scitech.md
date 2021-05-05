@@ -3,8 +3,6 @@ layout: page_nav
 title: Science
 ---
 
-## Science / Technology
-
 ### EUV lithography
 
 Some technical notes on working with EUV for lithography:
