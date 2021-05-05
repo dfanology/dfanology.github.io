@@ -14,9 +14,9 @@ I grinned back, “Do whatever you like, my mind is crystal clear. Try anything 
 I was feeling good, completely aware of everything around me, and the powers I had at my command responded like quicksilver. I was looking forward to exercising their use. There was nothing she could do really, and I felt a little sorry for her. The world was before me, at my whim.
 
 We looked into each other’s eyes. She still had that annoying half-smile and her eyes were like two dark pools of unfathomable depth. We stared for quite a while at each other. Then she blinked, and I awoke to the cool night air. The window had been left open, and the dark mass of the French alps seemed to loom closer than they do during the day, and the Lake of Geneva seemed to plunge deeper than it appears to in the sunlight.
-
+\
 ---
-
+\
 The second dream concerns an essay I had read, written by Stephen Jay Gould, on the slowing of the earth’s rotation due to tidal friction. The Astronomer Royal of England, Edmund Halley, first noticed the discrepancy between records of observed eclipses and their predicted coverage on the earth’s surface, assuming a constant rate of rotation of the earth. This could be taken into account if the earth had spun faster in the past and then slowed down, and the best explanation for this gradual slowing, supplied by Immanuel Kant, was tidal friction due to the gravitational effects of the moon.
 
 This slowing is about 2 milliseconds per century and due to the conservation of momentum, as the earth loses its angular momentum, the moon gains the loss by retreating from the Earth in orbit. This means that at some point in time far in the past, when the earth was new, the moon appeared as a giant disc in the sky, and the moon revolved around the earth much more quickly, and there were 400 days in the year, and each day might have 22 or so hours.
