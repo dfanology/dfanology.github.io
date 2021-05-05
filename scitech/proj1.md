@@ -1,6 +1,6 @@
 ---
 layout: page_nav
-title: EUV-IL produces world record photolithography resolution
+list_title: EUV-IL produces world record photolithography resolution
 ---
 
 # Concept
