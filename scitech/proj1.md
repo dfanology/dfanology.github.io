@@ -35,7 +35,9 @@ $$
 \end{align*}
 $$
 
-Thus the gratings need to be close enough together so that the beam spot falls on them, be far enough apart such that interference area is not overlapping with the zero-order transmitted light from the grating areas, and large enough in area for interference to actually happen. Since EUV-IL is Next, experimental methods are presented to push the above equation to its technical limit.
+Thus the gratings need to be close enough together so that the beam spot falls on them, be far enough apart such that interference area is not overlapping with the zero-order transmitted light from the grating areas, and large enough in area for interference to actually happen. EUV-IL is optics-free and has infinite depth-of-focus, hence the gap can be adjusted until the interfering area is maximised, without any effect on contrast.
+
+Next, experimental methods are presented to push the above equation to its technical limit.
 
 # Beamline optics
 
