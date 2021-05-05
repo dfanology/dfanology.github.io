@@ -1,11 +1,20 @@
-theme: minima
-  
 title: Daniel's page
+author:
+  name: Daniel Fan
+  email: dfanology@protonmail.com
+description: >
+  My webpage!
+  
+show-excerpts: true
+
+minima:
+  date_format: "%d %b %Y"
+  social_links:
+    instagram: dfanology
+    linkedin: daniel-fan-2a925914
 
 header_pages:
   - about.md
   - scitech.md
 
-author:
-  name: Daniel Fan
-  email: "dfanology@protonmail.com"
+theme: minima
