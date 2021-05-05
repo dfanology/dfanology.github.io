@@ -11,8 +11,11 @@ A short resume is listed below while some projects are described in more detail 
 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en){:target="_blank"}
 
+## CV
+
 ### Personal Details
 
+Name: Daniel Fan
 Email: <dfanology@protonmail.com>  
 Residence: The Netherlands  
 Nationality: Australian
