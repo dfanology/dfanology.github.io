@@ -12,7 +12,7 @@ In it, an old, poor fisherman cast his net and caught a golden fish who could ta
 Years later, during the Cultural Revolution (1966-1976), the country was in turmoil, and the people were up in arms against all “culture”. Professors and intellectuals were imprisoned, books were burned, artifacts and relics were destroyed, school was cancelled and the students sent to the countryside as labour. The fight was against capitalism and the bourgeoisie and to preserve the “true” communist ideology and purge the country of dissidents and revisionists, and of course for Mao to regain the power he thought was slipping from him. It set the country back decades.
 
 “Many of the historical sites and statues around here were destroyed,” says Dad. It is late evening and we are still within the French concession, strolling through the quiet, neighbourly streets. All the foreign statues and inscriptions here were smashed and defaced. Only one survived. A bust of Pushkin, in memory of that famous poet, originally erected by the White Russians between the wars. We were standing in front of it under the orange sodium lights, as Dad finished his story, first told to him by my Grandmother.
-
+\
 ---
-
+\
 Dad tells me that the great Tang dynasty poet Li Bai, whose name means “white”, was born at Lake Baikal, in Siberia, far outside the borders of the empire (I later found out this wasn’t true, but it is so memorable that “white” was born in the snows of Baikal). Many years after I traveled throughout Africa and discovered that Pushkin’s grandfather had been a slave, brought from Ethiopia, and that the only memorial in all of Africa dedicated to Pushkin was in Addis Ababa…
