@@ -16,5 +16,6 @@ minima:
 header_pages:
   - about.md
   - scitech.md
+  - stories.md
 
 theme: minima
