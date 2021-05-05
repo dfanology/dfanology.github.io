@@ -11,9 +11,9 @@ The wavelength chosen is **13.5 nm**, called extreme UV (EUV), a highly relevant
 
 Note that it is also possible to produce interference patterns from incoherent sources such as Talbot lithography or using holographic masks.
 
-![EUVIL](EUVIL1.png)
+![EUVIL](EUVIL1.png)*Caption*
 
-The Bragg equation gives:
+For the scheme on the right, the Bragg equation gives:
 
 $$
 \begin{align*}
@@ -21,7 +21,13 @@ $$
 \end{align*}
 $$
 
-where p is the periodicity of the image, q is the periodicity of the grating, $$\lambda$$ is the wavelength, $$\theta$$ is the diffraction angle, and m is the diffraction order (0, 1, 2, ...)
+where $$p$$ is the periodicity of the image, $$q$$ is the periodicity of the grating, $$\lambda$$ is the wavelength, $$\theta$$ is the diffraction angle, and $$m$$ is the diffraction order (0, 1, 2, ...). From this equation you can see that:
+
+1. The image is at the diffraction limit.
+2. The image is independent of wavelength. As the wavelength changes so does the diffraction angle, but the $$k$$ vector parallel to the plane remains the same. Therefore the periodicity of the image is fixed by the grating periodicity.
+3. The resolution limit occurs at $$\theta = 90\degrees$$ which corresponds to 7.75 nm  for EUV wavelength (i.e. 3.875 nm half-pitch).
+
+Next, experimental methods are presented to push the above equation to its technical limit.
 
 # Beamline optics
 
