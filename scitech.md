@@ -1,6 +1,7 @@
 ---
 layout: page_nav
 title: Science
+list_title: Science / Technology
 ---
 
 ### EUV lithography
