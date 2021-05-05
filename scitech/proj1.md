@@ -59,7 +59,7 @@ where $$s_{ext}$$ is the size of the source extension on the image, $$s$$ is the
 
 - A small pinhole means less light intensity resulting in longer exposure times meaning mechanical stability of the setup comes into play.
 - If the pinhole to mask distance is too large, a similar loss in light flux occurs as the beam is now spread out over a larger spot area.
-- Since the wavelength, target pattern periodicity, and therefore grating periodicity are set, the diffraction angle is set. Therefore, decreasing the mask to image distance means that the field of view becomes smaller and smaller as the central beam stop needs to be made smaller and smaller.
+- Since the wavelength, target pattern periodicity, and therefore grating periodicity are set, the diffraction angle is set. Therefore, decreasing the mask to image distance means that the field of view becomes smaller and smaller as the central beam stop needs to be made smaller and smaller. Mechanical tolerances also come into play at such distances.
 
 For a target periodicity of 6 nm half-pitch, the presented arrangement results in ~1 nm blur (17%) without taking into account mechanical vibrations.
 
@@ -81,6 +81,8 @@ There are two main design choices for fabricating a suitable transmission mask. 
 
 Because the diffraction grating dimensions are similar to the EUV wavelength, rigorous methods need to be used for optical calculations as the scalar diffraction theory breaks down. I used RCWA, a numerical method suitable for periodic structures (in particular I used the [RODIS](https://www.photonics.intec.ugent.be/research/facilities/design/rodis/default.htm) package from University of Gent). A more detailed discussion on EUV diffraction optics can be found elsewhere.
 
-I took the refractive indices from a whole bunch of suitable materials from the Lawrence Berkeley Center for X-ray Optics [website](https://henke.lbl.gov/optical_constants/) for EUV. Then I 
+I took the refractive indices from a whole bunch of suitable materials for EUV from the Lawrence Berkeley Center for X-ray Optics [website](https://henke.lbl.gov/optical_constants/). Then I simulated the 1st order diffraction efficiency for different grating duty cycles with grating heights up to 200 nm (anything higher would result in very large aspect ratios of the structures causing their collapse). The maximum diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm is plotted below in figure 3.
+
+
 
 # Photoresist chemistry
