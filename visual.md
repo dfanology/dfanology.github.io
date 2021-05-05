@@ -10,6 +10,14 @@ title: Media
 ---
 &nbsp;
 
+![Clod](/images/clod.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}
+
+World without water, Willelm & Jan Goeree, c. 1690
+
+“The Earth clud, stripped naked of water, as seen from two sides.” (the Dutch for clud, ‘kluit’, is bastardized to ’-kloot’, which is also a vulgar word for a testicle, and rhymes with ’-bloot’, which means naked. 'Aardkloot’ is frequently used when talking about Earth in a negative way)
+
+#maps
+
 ---
 &nbsp;
 
