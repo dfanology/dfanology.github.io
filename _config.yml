@@ -19,3 +19,4 @@ header_pages:
   - stories.md
 
 theme: minima
+markdown: kramdown
