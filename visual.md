@@ -13,9 +13,8 @@ title: Media
 ---
 &nbsp;
 
-![StickMap1](/images/stick1.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 40%;"} | ![StickMap2](/images/stick2.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 40%;"}
-
-![StickMap3](/images/stick1.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 40%;"} | ![StickMap4](/images/stick1.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 40%;"} 
+![StickMap1](/images/stick1.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"} | ![StickMap2](/images/stick2.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"}
+![StickMap3](/images/stick3.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"} | ![StickMap4](/images/stick4.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"} 
 
 ---
 &nbsp;
