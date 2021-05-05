@@ -16,6 +16,10 @@ title: Media
 ![StickMap1](/images/stick1.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"} | ![StickMap2](/images/stick2.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"}
 ![StickMap3](/images/stick3.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"} | ![StickMap4](/images/stick4.jpg){: style="display: block; margin-left: auto; margin-right: auto; width: 100%;"} 
 
+Polynesian stick charts, used for navigation between islands of the Pacific Ocean. The shells represent islands, and the straight and curved sticks and fronds represent currents and sea swell patterns.
+
+#maps
+
 ---
 &nbsp;
 
