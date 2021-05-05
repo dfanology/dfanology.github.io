@@ -13,15 +13,15 @@ A list of my publications can be found [here](https://scholar.google.com/citatio
 
 ### **Personal Details**
 
-Email: dfanology@protonmail.com\
-Residence: The Netherlands\
+Email: dfanology@protonmail.com  
+Residence: The Netherlands  
 Nationality: Australian
 
 ### **Education**
 
-D.Sc. Materials Science, ETH Zurich, Switzerland (2013-2017)\
-M.Sc. Micro and Nano Systems, ETH Zurich, Switzerland (2009-2011)\
-B.Sc. Mathematics, University of Melbourne, Australia (2001-2005)\
+D.Sc. Materials Science, ETH Zurich, Switzerland (2013-2017)  
+M.Sc. Micro and Nano Systems, ETH Zurich, Switzerland (2009-2011)  
+B.Sc. Mathematics, University of Melbourne, Australia (2001-2005)  
 B.Eng. Electrical Engineering (Honours), University of Melbourne, Australia (2001-2005)
 
 ### **Research Experience**
@@ -130,9 +130,9 @@ _John Holland Pty. Ltd., Australia_
 + Institute of Engineering and Technology: member; U.K., 2001-2017
 + Cochlear Institute: electronics soldering; Australia, 1999
 + Australian Air Training Corps: cadet; Australia, 1997-2000
-
+<br>
 ### **Languages**
 
-English (native)\
-Chinese Mandarin (fluent)\
+English (native)  
+Chinese Mandarin (fluent)  
 German (intermediate)
