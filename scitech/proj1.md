@@ -83,14 +83,16 @@ Because the diffraction grating dimensions are similar to the EUV wavelength, ri
 
 I took the refractive indices from a whole bunch of suitable materials for EUV from the Lawrence Berkeley Center for X-ray Optics [website](https://henke.lbl.gov/optical_constants/). Then I simulated the 1st order diffraction efficiency for different grating duty cycles with grating heights up to 200 nm (anything higher would result in very large aspect ratios of the structures causing their collapse). The maximum diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm is plotted below in figure 3.
 
-![EUVIL3](/images/EUVIL3.png)*Fig. 3: Left, maximum 1st order diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm. Right, 1st order diffraction efficiency of gratings targeting 6 nm half-pitch on sample wafer for various materials. Each of these plots on the right graph was performed for all the materials and periodicities on the left graph and the maximum value plotted.*
+![EUVIL3](EUVIL3.png)*Fig. 3: Left, maximum 1st order diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm. Right, 1st order diffraction efficiency of gratings targeting 6 nm half-pitch on sample wafer for various materials. Each of these plots on the right graph was performed for all the materials and periodicities on the left graph and the maximum value plotted.*
 
-The fabrication limitations for certain grating periodicities together with possible materials is summarised below:
+The fabrication limitations for certain grating periodicities together with possible materials and techniques is summarised below:
 
-| Periodicity | Material | Technique | Notes |
-|:------------|:--------:|:---------:|------:|
-| > 80 nm | Metals (Au, Cr, Ni) | LIGA or RIE | Limited by pattern transfer |
-| 40 - 80 nm | HSQ | Direct e-beam written grating | Diffraction efficiency drops below 40 nm |
+| Target HP | Grating Periodicity | Material | Technique | Limitations |
+|:----------|:------------|:---------|:----------|:------------|
+| > 20 nm | > 80 nm | Metals (Au, Cr, Ni, etc.) | LIGA or RIE | Limited by pattern transfer |
+| 10 - 20 nm | 40 - 80 nm | HSQ | Direct e-beam written grating | Diffraction efficiency drops below 40 nm |
+| 8 nm | 64 nm | Mo | ICP-RIE + 2nd order diffraction | Etching optimisation very difficult |
+| 7 nm | 28 nm | HfO_{2} and SnO_{2} | Direct e-beam written grating | E-beam electron proximity effect |
 
 
 # Photoresist chemistry
