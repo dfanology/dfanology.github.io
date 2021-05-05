@@ -25,7 +25,7 @@ where $$p$$ is the periodicity of the image, $$q$$ is the periodicity of the gra
 
 1. The image is at the diffraction limit.
 2. The image is independent of wavelength. As the wavelength changes so does the diffraction angle, but the $$k$$ vector parallel to the plane remains the same. Therefore the periodicity of the image is fixed by the grating periodicity.
-3. The resolution limit occurs at $$\theta = 90\unicode{xB0}$$ (for the first diffraction order $$m = 1$$) which corresponds to 7.75 nm  for EUV wavelength (i.e. 3.875 nm half-pitch).
+3. The resolution limit occurs at $$\theta = 90\unicode{xB0}$$ (for the first diffraction order $$m = 1$$) which corresponds to 6.75 nm  for EUV wavelength (i.e. 3.325 nm half-pitch).
 
 Next, experimental methods are presented to push the above equation to its technical limit.
 
