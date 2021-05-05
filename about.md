@@ -1,5 +1,6 @@
 ---
 layout: page_nav
+title: About / CV
 ---
 
 I am currently a scientific researcher broadly in the fields of nanoscience, optics, biology, and micro-fabrication, with over 7 years' experience in experimental physics, engineering, and nanotechnology. This included thorough and extensive use of nanofabrication techniques in clean-room environments, in particular EUV lithography, e-beam lithography, 2PP lithography, Raman spectroscopy, fluorescence microscopy, and electron microscopy. I originally trained as an electrical engineer and worked for a number of years designing electrical power distribution and control systems for industrial plants. 
@@ -9,8 +10,6 @@ A short resume is listed below while some projects are described in more detail 
 ### Publications
 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en){:target="_blank"}
-
-## CV
 
 ### Personal Details
 
