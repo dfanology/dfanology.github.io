@@ -1,5 +1,7 @@
 ---
 layout: home
-title: Writing / Stories
-list_title:
 ---
+
+# Writing / Stories
+
+Mostly about travel or stuff I heard from other people.
