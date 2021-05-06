@@ -9,7 +9,7 @@ list_title: Science / Technology
 Some technical notes on working with EUV for lithography:
 - Using 2-beam [interference lithography](scitech/proj1.html) to achieve a world record 6 nm half-pitch resolution.
 - Achromatic Talbot lithography for very efficient large-area patterning of periodic structures.
-- Bessel beam lithography for serial writing with a non-diffracting and self-healing beam with long depth-of-focus.
+- Bessel beam lithography for serial writing with a non-diffracting, self-healing beam having long depth-of-focus.
 - X-ray diffraction optics calculations using RCWA.
 
 ### Micro- and nano-fabrication
