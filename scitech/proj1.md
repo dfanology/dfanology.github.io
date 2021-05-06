@@ -130,3 +130,12 @@ Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (
 ![EUVIL5](EUVIL5.png){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 5: 6 nm half-pitch HSQ patterns on silicon substrate fabricated by EUV-IL. Large scale bar = 100 nm, inset scale bar = 20 nm.*
 
 6 nm corresponds to ~12 silicon atoms or ~18 SiO<sub>2</sub> molecules. Considering secondary electron blur of ~1-3 nm, 6 nm half-pitch may well be the technological resolution limit for EUV lithography. Further decreases in resolution may be accomplished by using a slightly lower wavelength (e.g. EUV+: 12.5 nm), decreasing source extension by using a smaller pinhole, moving the mask further away from the source, improve diffraction mask efficiency by using Ru or removal of HSQ or thinner support membranes (or even Si membranes) to improve transmission efficiency.
+
+# References
+
+[1] Fan, D., & Ekinci, Y. (2016). Photolithography reaches 6 nm half-pitch using extreme ultraviolet light. Journal of Micro/Nanolithography, MEMS, and MOEMS, 15(3), 033505. https://doi.org/10.1117/1.jmm.15.3.033505
+
+[2] https://henke.lbl.gov/optical_constants/
+
+[3] https://www.photonics.intec.ugent.be/research/facilities/design/rodis/default.htm
+
