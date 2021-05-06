@@ -123,7 +123,7 @@ For pushing the resolution limits, the application of photoresist must be taken 
   + Bake on hotplate at 250 degC for 5 min. This dehydrates the surface and burns off impurities while also activating the surface to some degree.
   + **Dip in developer for 60 s** (in this case NaOH based solution) and rinse with DI water followed by baking on hotplate at 180 degC for 5 min. This pretreatment activates the surface of the wafer as well, promoting photoresist adhesion. This was the method chosen, giving the best results overall in terms of HSQ thickness and film homogeneity.
 
-# Results and Conclusion
+# Results and Conclusions
 
 Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (Fig. 5). SEM analysis calculated a pitch of 12.245 nm, critical dimension of 5.7 nm, and duty cycle of 0.458. Given that we used the best performing resist (HSQ) and best EUV-IL tool (XIL-II, PSI), there is no clear way to isolate the problems shown in the structures of figure 5. It could be due to errors in mask fabrication (e.g. LER of mask lines), photoresist pattern collapse (e.g. resolution limit of HSQ, secondary electron effect), and/or tool tolerances (e.g. mechanical vibrations).
 
