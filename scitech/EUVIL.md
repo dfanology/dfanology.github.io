@@ -3,7 +3,7 @@ layout: page_nav
 list_title: EUV-IL produces world record photolithography resolution (6 nm HP)
 ---
 
-# Concept
+### Concept
 
 Interference lithography (IL) relies on the recording in photoresist of the interference pattern produced from the intersection of two light beams. The first such systems used a mirror (in Lloyd's configuration) and a coherent laser source. Here the concept is extended in 2016 to it's technological limits: by using a spatially and temporally coherent x-ray light beam produced from a synchrotron source combined with a transmission diffraction grating to produce the interference pattern.
 
@@ -39,7 +39,7 @@ Thus the gratings need to be close enough together so that the beam spot falls o
 
 Next, experimental methods are presented to push the above equation to its technical limit.
 
-# Beamline optics
+### Beamline optics
 
 Synchrotron light is a source of electromagnetic radiation produced from a electron storage ring. Together with free electron lasers, they can produce very high brilliance x-ray radiation tunable from meV to MeV as well as high polarisation, high **collimation**, low emittance, and most importantly for us, high **coherence**.
 
@@ -63,7 +63,7 @@ where $$s_{ext}$$ is the size of the source extension on the image, $$s$$ is the
 
 For a target periodicity of 6 nm half-pitch, the presented arrangement results in ~1 nm blur (17%) without taking into account mechanical vibrations.
 
-# Mechanical stability
+### Mechanical stability
 
 Assuming the beam is fairly stable (this may not be the case, as the optical components along the beam path might be badly isolated, but in any case beam stability is not crucial as the beam spot is overlapping the whole mask) then the experimentalist must ensure mechanical stability between mask and sample. There are a number of things to take into consideration:
 
@@ -72,7 +72,7 @@ Assuming the beam is fairly stable (this may not be the case, as the optical com
 - A settling time is necessary after each stage movement.
 - The experiment is best done on a weekend, at night, when no other construction works or people are in the vicinity. Further, winter is the best time as humidity is fairly low.
 
-# Transmission mask
+### Transmission mask
 
 There are two main design choices for fabricating a suitable transmission mask. Let's say we are targeting a half-pitch of 6 nm on the sample wafer. This means we need to fabricate diffraction gratings with half-pitch of 12 nm. We need to choose:
 
@@ -109,7 +109,7 @@ The result is shown in figure 4 above. Further removal of the HSQ via HF dip was
 
 Although I have briefly outlined the fabrication procedure above, the actual work requires much care in every step, from ensuring absolutely clean beakers, to making sure the droplet of water supporting the SiN membrane during spin-coating is not contaminated, to making sure the SiN membranes themselves where patterned exactly along the wafer crystal planes as any error would result in warped membranes due to stress caused by rough membrane edges. A short list of clean-room / nanofabrication tips and tricks can be found here.
 
-# Photoresist chemistry
+### Photoresist chemistry
 
 At the limits of operation, there is a tradeoff in photoresists between line-edge roughness, resolution, and sensitivity. For EUV, chemically amplified resists show very good sensitivity for example, but is limited in resolution. For HSQ, this is the opposite: it has low sensitivity making it unsuitable for production due to low throughput, but it has the best resolution and LER.
 
@@ -123,7 +123,7 @@ For pushing the resolution limits, the application of photoresist must be taken 
   + Bake on hotplate at 250 degC for 5 min. This dehydrates the surface and burns off impurities while also activating the surface to some degree.
   + **Dip in developer for 60 s** (in this case NaOH based solution) and rinse with DI water followed by baking on hotplate at 180 degC for 5 min. This pretreatment activates the surface of the wafer as well, promoting photoresist adhesion. This was the method chosen, giving the best results overall in terms of HSQ thickness and film homogeneity.
 
-# Results and Conclusions
+### Results and Conclusions
 
 Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (Fig. 5). SEM analysis calculated a pitch of 12.245 nm, critical dimension of 5.7 nm, and duty cycle of 0.458. Given that we used the best performing resist (HSQ) and best EUV-IL tool (XIL-II, PSI), there is no clear way to isolate the problems shown in the structures of figure 5. It could be due to errors in mask fabrication (e.g. LER of mask lines), photoresist pattern collapse (e.g. resolution limit of HSQ, secondary electron effect), and/or tool tolerances (e.g. mechanical vibrations).
 
@@ -131,7 +131,7 @@ Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (
 
 6 nm corresponds to ~12 silicon atoms or ~18 SiO<sub>2</sub> molecules. Considering secondary electron blur of ~1-3 nm, 6 nm half-pitch may well be the technological resolution limit for EUV lithography. Further decreases in resolution may be accomplished by using a slightly lower wavelength (e.g. EUV+: 12.5 nm), decreasing source extension by using a smaller pinhole, moving the mask further away from the source, improve diffraction mask efficiency by using Ru or removal of HSQ or thinner support membranes (or even Si membranes) to improve transmission efficiency.
 
-# References
+### References
 
 [1] Fan, D., & Ekinci, Y. (2016). Photolithography reaches 6 nm half-pitch using extreme ultraviolet light. Journal of Micro/Nanolithography, MEMS, and MOEMS, 15(3), 033505. https://doi.org/10.1117/1.jmm.15.3.033505
 
@@ -139,5 +139,4 @@ Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (
 
 [3] https://www.photonics.intec.ugent.be/research/facilities/design/rodis/default.htm
 
-# [Back](../scitech.html)
-
+### [Back](../scitech.html)
