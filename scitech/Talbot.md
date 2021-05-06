@@ -25,9 +25,9 @@ where $$p$$ is the grating periodicity and $$\lambda$$ is the wavelength. When t
 
 $$
 \begin{align*}
-  & z_{A} = \frac{2np^{2}}{\lambda-\frac{\delta\lambda}{2}} = \frac{2(n+1)p^{2}}{\lambda+\frac{\delta\lambda}{2}}
+  & z_{A} = \frac{2np^{2}}{\lambda-\frac{\Delta\lambda}{2}} = \frac{2(n+1)p^{2}}{\lambda+\frac{\Delta\lambda}{2}}
 \end{align*}
 $$
 
-where $$n$$ is an integer. Solving for $$n$$ and assuming $$\frac{\lambda}{\delta\lambda}>>\frac{1}{2}$$:
+where $$n$$ is an integer. Solving for $$n$$ and assuming $$\frac{\lambda}{\Delta\lambda}>>\frac{1}{2}$$:
 
