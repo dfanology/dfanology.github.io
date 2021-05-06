@@ -9,7 +9,7 @@ Talbot observed in 1836 that monochromatic light passing through a diffraction g
 
 ![Talbot1](Talbot1.png)*Fig. 1: Left - Talbot effect is the self-image of a diffraction grating under monochromatic light. Right - for achromatic light all the self-images blur together to form a z-invariant self-image.*
 
-This means at the intermediate distance where the self-images are blurred together but not so far that interference stops, the aerial image is a z-invariant periodic pattern which can be used to pattern photoresist. Because of the z-invariance, it is robust to tilt and positioning, while having an area as large as the diffraction grating. Since most of the diffraction orders participate in interference, the light transmission is high and therefore patterning is very efficiency.
+This means at the intermediate distance where the self-images are blurred together but not so far that interference stops, the aerial image is a z-invariant periodic pattern which can be used to pattern photoresist. Because of the z-invariance, it is robust to tilt and positioning, while having a patternable area as large as the diffraction grating, with no 'dead' space. Since most of the diffraction orders participate in interference, the light transmission is high and therefore patterning is very efficiency.
 
 # Calculations
 
@@ -29,5 +29,43 @@ $$
 \end{align*}
 $$
 
-where $$n$$ is an integer. Solving for $$n$$ and assuming $$\frac{\lambda}{\Delta\lambda}>>\frac{1}{2}$$:
+where $$n$$ is an integer. Solving for $$n$$ and substituting back gives the achromatic Talbot distance:
 
+$$
+\begin{align*}
+  & z_{A} = \frac{2p^{2}}{\Delta\lambda}.
+\end{align*}
+$$
+
+Beyond this distance self-images smear and the aerial image is stationary in z. As the z distance increases further however, the diffraction orders diverge. For the 1<sup>st</sup>-order, the Bragg equation gives:
+
+$$
+\begin{align*}
+  & \frac{\lambda}{p} = \sin\theta
+\end{align*}
+$$
+
+where $$p$$ is the grating periodicity and $$\theta$$ is the 1<sup>st</sup>-order diffraction angle. The field size can also be calculated from:
+
+$$
+\begin{align*}
+  & \frac{G-x}{2z} = \tan\theta
+\end{align*}
+$$
+
+where $$z$$ is the gap distance between mask and image, $$G$$ is the size (length) of the mask grating, and $$x$$ is the size (length) of the image. Combining the above two equations gives the maximum gap distance after which the Talbot effect disappears:
+
+$$
+\begin{align*}
+  & z_{max} = G\times\frac{p}{2\lambda}.
+\end{align*}
+$$
+
+An example mask design is described in the table below.
+
+| Independent variable | Value   | Dependent variable | Value |
+|:---------------------|:--------|:-------------------|:------|
+| $$\lambda$$ | 13.5 nm | $$z_{T}$$ | 3.3 μm |
+| $$\frac{\Delta\lambda}{\lambda}$$ | 4% | $$z_{A}$$ | 83.3 μm |
+| Mask period $$p$$ | 150 nm | $$z_{max}$$ | 556 μm |
+| Mask size $$G$$ | 100 μm | Image period (45°) | 106 nm |
