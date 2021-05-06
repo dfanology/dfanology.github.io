@@ -78,4 +78,22 @@ Finally, the contrast was calculated to be 70%, with an 18% background, for a di
 
 #### Transmission mask
 
+The diffraction grating fabrication is as follows:
+
+- Begin with 100 nm thick SiN support membrane. Thermally evaporate Cr (3 nm, adhesion to substrate) / Au (5 nm, electroplating seed layer) / Cr (3 nm, adhesion to photoresist).
+- Spin-coat ~250 nm thick HSQ and fabricate a pillar array with pitch 150 nm and diameter 75 nm using e-beam lithography. This is the aspect ratio limit after which pattern collapse can occur. Further, it is the electroplating size limit for smooth nickel without large grains.
+- Use Cl<sub>2</sub> based RIE for 10 s to etch away the top Cr layer, exposing the Au.
+- Electroplate 200 nm thick nickel, a highly absorbing EUV material.
+- Use a buffered oxide etch (1:7 HF to NH<sub>4</sub>F) to remove the HSQ, and a short Ar-based RIE to remove the Au / Cr in the holes.
+
+#### EUV exposure
+
+A synchrotron source supplied coherent EUV radiation of high brilliance. The source extension was calculated to be only a few nm (see note on [interference lithography](EUVIL.html)). For a plasma source, the source extension may be much greater since it must be placed closer to the mask. EUV exposures were performed on Si substrates with spin-coated HSQ of ~35 nm, with a gap of 275 μm. The beam flux of 31 mW/cm<sup>2</sup> resulted in exposure times between 3 to 60 s. Development was performed in NaOH buffered developer.
+
+### Results and conclusions
+
+Dot arrays with a minimum of 20 nm feature size and 106 nm periodicity were fabricated, under various illumination wavelengths (e.g. 13.5 nm and 8.8 nm) and only requiring a broadband EUV source. It is a robust method for quickly producing large area periodic nanostructures, finding applications in plasmonics, studies of nanocatalysis, sensing, and so on.
+
+
+
 ### [Back](../scitech.html)
