@@ -94,6 +94,10 @@ A synchrotron source supplied coherent EUV radiation of high brilliance. The sou
 
 Dot arrays with a minimum of 20 nm feature size and 106 nm periodicity were fabricated, under various illumination wavelengths (e.g. 13.5 nm and 8.8 nm) and only requiring a broadband EUV source. It is a robust method for quickly producing large area periodic nanostructures, finding applications in plasmonics, studies of nanocatalysis, sensing, and so on.
 
+![Talbot3](Talbot3.png){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 3: SEM images of the exposed patterns after development at the Shanghai Synchrotron Radiation Facility (a–b) and at PSI (d–e). In all cases the dot array has pitch 106 nm. (a) Dose 400 mJ/cm², dot size 20 nm. (b) Dose 670 mJ/cm², dot size 48 nm. (d) Dose 600 mJ/cm², dot size 20 nm. (e) Dose 800 mJ/cm², dot size 40 nm. Scale bars for (a–b) and (d–e) equals 200 nm.*
 
+### References
+
+[1] Fan, D., Buitrago, E., Yang, S., Karim, W., Wu, Y., Tai, R., & Ekinci, Y. (2016). Patterning of nanodot-arrays using EUV achromatic Talbot lithography at the Swiss Light Source and Shanghai Synchrotron Radiation Facility. Microelectronic Engineering, 155, 55–60. https://doi.org/10.1016/j.mee.2016.02.026
 
 ### [Back](../scitech.html)
