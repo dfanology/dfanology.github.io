@@ -1,6 +1,6 @@
 ---
 layout: page_nav
-list_title: EUV-IL produces world record photolithography resolution
+list_title: EUV-IL produces world record photolithography resolution (6 nm HP)
 ---
 
 # Concept
@@ -105,6 +105,24 @@ The fabrication strategy to push the resolution limit is as follows:
 
 ![EUVIL4](EUVIL4.png)
 
-The result is shown in figure 4 above. Further removal of the HSQ via HF dip was considered risky in causing pattern collapse and so was avoided, however a F based plasma etch might be one way to remove the HSQ and further improve the diffraction efficiency. Although I have briefly outlined the fabrication procedure above, the actual work requires much care in every step, from ensuring absolutely clean beakers, to making sure the droplet of water supporting the SiN membrane during spin-coating is not contaminated, to making sure the SiN membranes themselves where patterned exactly along the wafer crystal planes as any error would result in warped membranes due to stress caused by rough membrane edges. A short list of clean-room / nanofabrication tips and tricks can be found here.
+The result is shown in figure 4 above. Further removal of the HSQ via HF dip was considered risky in causing pattern collapse and so was avoided, however a F based plasma etch might be one way to remove the HSQ and further improve the diffraction efficiency. Ion milling (Fig. 4c) has the added benefit of smoothing the rough Ir nanocrystals.
+
+Although I have briefly outlined the fabrication procedure above, the actual work requires much care in every step, from ensuring absolutely clean beakers, to making sure the droplet of water supporting the SiN membrane during spin-coating is not contaminated, to making sure the SiN membranes themselves where patterned exactly along the wafer crystal planes as any error would result in warped membranes due to stress caused by rough membrane edges. A short list of clean-room / nanofabrication tips and tricks can be found here.
 
 # Photoresist chemistry
+
+At the limits of operation, there is a tradeoff in photoresists between line-edge roughness, resolution, and sensitivity. For EUV, chemically amplified resists show very good sensitivity for example, but is limited in resolution. For HSQ, this is the opposite: it has low sensitivity making it unsuitable for production due to low throughput, but it has the best resolution and LER.
+
+For pushing the resolution limits, the application of photoresist must be taken into account:
+
+- The spin-coated photoresist thickness must be small enough to prevent pattern collapse during development. For example I coated ~20 nm of HSQ, and for 6 nm patterns this is an aspect ratio of ~3. A good aspect ratio where pattern collapse due to capillary forces during development and drying is ~1, so the spin-coat thickness can be further improved and lowered by dilution of the HSQ.
+- The problem with dilution is coverage of HSQ over the wafer become inhomogeneous. The substrate must be cleaned and adhesion of HSQ promoted in some way. Starting with a clean single-side polished <100> Si wafer, which is already quite flat, some techniques to promote adhesion include:
+  + Deposition of adhesion promoter such as HMDS (spin-coated or vapour deposited). The downside is again, possible inhomogeneous coverage.
+  + Light power oxygen plasma. This will clean the surface and activate the SiO<sub>2</sub> surface bonds for better chemical adhesion. However, incorrect plasma can start etching the surface causing roughness.
+  + Ozone treatment. Similar to plasma treatment with similar downsides.
+  + Bake on hotplate at 250 degC for 5 min. This dehydrates the surface and burns off impurities while also activating the surface to some degree.
+  + **Dip in developer for 60 s** (in this case NaOH based solution) and rinse with DI water followed by baking on hotplate at 180 degC for 5 min. This pretreatment activates the surface of the wafer as well, promoting photoresist adhesion. This was the method chosen, giving the best results overall in terms of HSQ thickness and film homogeneity.
+
+# Results and Conclusion
+
+Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (Fig. 5). SEM analysis calculated a pitch of 12.245 nm, critical dimension of 5.7 nm, and duty cycle of 0.458. Given that we used the best performing resist (HSQ) and best EUV-IL tool (XIL-II, PSI), there is no clear way to isolate the problems shown in the structures of figure 5. It could be 
