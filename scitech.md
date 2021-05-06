@@ -15,4 +15,6 @@ Some technical notes on working with EUV for lithography:
 ### Micro- and nano-fabrication
 
 Technical notes and tips for various topics in nano-fabrication:
-- 
+- Working with PDMS and UV-PDMS including spin-coating curves.
+- Electroplating nickel nanostructures.
+- RIE-ICP plasma etching optimisation for III-V materials and Si features < 20 nm.
