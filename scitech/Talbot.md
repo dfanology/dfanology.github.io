@@ -69,3 +69,5 @@ An example mask design is described in the table below.
 | $$\frac{\Delta\lambda}{\lambda}$$ | 4% | $$z_{A}$$ | 83.3 μm |
 | Mask size $$G$$ | 100 μm | $$z_{max}$$ | 556 μm |
 | Mask period $$p$$ | 150 nm | Image period (45°) | 106 nm |
+
+![Talbot2](Talbot2.png)){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 2: Achromatic Talbot lithography scheme with labels for variables.*
