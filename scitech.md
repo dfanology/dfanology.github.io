@@ -6,7 +6,7 @@ list_title: Science / Technology
 
 ### EUV lithography / X-ray optics
 
-- Using 2-beam [interference lithography](scitech/proj1.html) to achieve a world record 6 nm half-pitch resolution.
+- Using 2-beam [interference lithography](scitech/EUVIL.html) to achieve a world record 6 nm half-pitch resolution.
 - Achromatic Talbot lithography for very efficient large-area patterning of periodic structures.
 - Bessel beam lithography for serial writing with a non-diffracting, self-healing beam with a very long depth-of-focus.
 - X-ray diffraction optics calculations using RCWA.
