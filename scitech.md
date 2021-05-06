@@ -4,7 +4,15 @@ title: Science
 list_title: Science / Technology
 ---
 
-### EUV lithography
+### EUV lithography and x-ray optics
 
 Some technical notes on working with EUV for lithography:
 - Using 2-beam [interference lithography](scitech/proj1.html) to achieve a world record 6 nm half-pitch resolution.
+- Achromatic Talbot lithography for very efficient large-area patterning of periodic structures.
+- Bessel beam lithography for serial writing with a non-diffracting and self-healing beam with large depth-of-field.
+- X-ray diffraction optics calculations using RCWA.
+
+### Micro- and nano-fabrication
+
+Technical notes and tips for various topics in nano-fabrication:
+- 
