@@ -67,5 +67,5 @@ An example mask design is described in the table below.
 |:---------------------|:--------|:-------------------|:------|
 | $$\lambda$$ | 13.5 nm | $$z_{T}$$ | 3.3 μm |
 | $$\frac{\Delta\lambda}{\lambda}$$ | 4% | $$z_{A}$$ | 83.3 μm |
-| Mask period $$p$$ | 150 nm | $$z_{max}$$ | 556 μm |
-| Mask size $$G$$ | 100 μm | Image period (45°) | 106 nm |
+| Mask size $$G$$ | 100 μm | $$z_{max}$$ | 556 μm |
+| Mask period $$p$$ | 150 nm | Image period (45°) | 106 nm |
