@@ -4,6 +4,8 @@ title: Science
 list_title: Science / Technology
 ---
 
+These short articles and notes contain some of the knowledge I accumulated in over 8 years of experimental research, mostly focused on materials science and optics.
+
 ### EUV lithography / X-ray optics
 
 - Using 2-beam [interference lithography](scitech/proj1.html) to achieve a world record 6 nm half-pitch resolution.
