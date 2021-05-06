@@ -3,7 +3,7 @@ layout: page_nav
 list_title: Achromatic Talbot lithography produces large area periodic patterns
 ---
 
-# Concept
+### Concept
 
 Talbot observed in 1836 that monochromatic light passing through a diffraction grating produced repeated images of the grating at integer multiples of the Talbot distance $$z_{T}$$. For broadband light, the Talbot distance for each wavelength is different, so at some distance (let's call it the achromatic Talbot distance $$z_{A}$$) all the grating self-images corresponding to the different wavelengths merge and blur together to form a propagating grating image that is z-invariant. As the distance from the grating increases further, the diffraction orders stop overlapping (since they are propagating at an angle), and eventually only the 0<sup>th</sup>-order is left.
 
@@ -11,7 +11,7 @@ Talbot observed in 1836 that monochromatic light passing through a diffraction g
 
 This means at the intermediate distance where the self-images are blurred together but not so far that interference stops, the aerial image is a z-invariant periodic pattern which can be used to pattern photoresist. Because of the z-invariance, it is robust to tilt and positioning, while having a patternable area as large as the diffraction grating, with no 'dead' space. Since most of the diffraction orders participate in interference, the light transmission is high and therefore patterning is very efficiency.
 
-# Calculations
+### Calculations
 
 For monochromatic coherent light, Rayleigh showed that the Talbot distance is given by:
 
@@ -74,6 +74,8 @@ An example mask design is described in the table below.
 
 Finally, the contrast was calculated to be 70%, with an 18% background, for a diffraction mask composed of 200 nm thick nickel on a 100 nm thick SiN support.
 
-# Experimental procedure
+### Experimental procedure
 
-### Transmission mask
+#### Transmission mask
+
+### [Back](../scitech.html)
