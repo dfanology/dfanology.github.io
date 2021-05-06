@@ -29,6 +29,7 @@ list_title: Science / Technology
 
 - Strain dependent micro-machines based on weak competition between viscoelastic polymers.
 - SiC MOSFET interface defects.
+- Phonon transport in Si nanowires < 20 nm width.
 
 ### Optics for microscopy and spectroscopy
 
