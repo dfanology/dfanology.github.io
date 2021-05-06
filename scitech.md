@@ -38,6 +38,6 @@ list_title: Science / Technology
 - Practical optical alignment tricks.
 - DMD alignment for structured illumination microscopy.
 
-### Biology
+### Biology and medicine
 
 - How do cells interact with curved surfaces?
