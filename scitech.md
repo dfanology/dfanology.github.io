@@ -4,6 +4,9 @@ title: Science
 list_title: Science / Technology
 ---
 
+---
+&nbsp;
+
 ### EUV lithography / X-ray optics
 
 Some technical notes on working with EUV for lithography:
@@ -18,3 +21,10 @@ Technical notes and tips for various topics in nano-fabrication:
 - Working with PDMS and UV-PDMS including spin-coating curves.
 - Electroplating nickel nanostructures.
 - RIE-ICP plasma etching optimisation for III-V materials and Si features < 20 nm.
+
+### Optics for microscopy and spectroscopy
+
+- Micro-Raman spectroscopy of semiconductor nanostructures: basics.
+- Micro-Raman spectroscopy of semiconductor nanostructures: Si nanowires.
+- Practical optical alignment tricks.
+- DMD alignment for structured illumination microscopy.
