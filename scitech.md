@@ -17,8 +17,18 @@ list_title: Science / Technology
 - Electroplating nickel nanostructures.
 - RIE-ICP plasma etching optimisation for III-V materials and Si features < 20 nm.
 
+### Two-photon lithography
 
-### 
+- Working with the Nanoscribe system: materials properties.
+- Working with the Nanoscribe system: micro-lens alignment.
+- Working with the Nanoscribe system: customised writing.
+- Working with the Nanoscribe system: local temperature control.
+- Bilayer 3D micro-structures.
+
+### Materials science
+
+- Strain dependent micro-machines based on weak competition between viscoelastic polymers.
+- SiC MOSFET interface defects.
 
 ### Optics for microscopy and spectroscopy
 
@@ -26,3 +36,7 @@ list_title: Science / Technology
 - Micro-Raman spectroscopy of semiconductor nanostructures: Si nanowires.
 - Practical optical alignment tricks.
 - DMD alignment for structured illumination microscopy.
+
+### Biology
+
+- How do cells interact with curved surfaces?
