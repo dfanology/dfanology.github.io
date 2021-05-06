@@ -70,7 +70,7 @@ An example mask design is described in the table below.
 | Mask size $$G$$ | 100 μm | $$z_{max}$$ | 556 μm |
 | Mask period $$p$$ | 150 nm | Image period (45°) | 106 nm |
 
-![Talbot2](Talbot2.png)){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 2: Achromatic Talbot lithography scheme with labels for variables.*
+![Talbot2](Talbot2.png){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 2: Achromatic Talbot lithography scheme with labels for variables.*
 
 Finally, the contrast was calculated to be 70%, with an 18% background, for a diffraction mask composed of 200 nm thick nickel on a 100 nm thick SiN support.
 
