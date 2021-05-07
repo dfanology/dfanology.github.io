@@ -8,8 +8,8 @@ list_title: Science / Technology
 
 - Using 2-beam [interference lithography](scitech/EUVIL.html) to achieve a world record 6 nm half-pitch resolution.
 - [Achromatic Talbot lithography](scitech/Talbot.html) for very efficient large-area patterning of periodic structures.
-- Bessel beam lithography for serial writing with a non-diffracting, self-healing beam with a very long depth-of-focus.
-- X-ray diffraction optics calculations using RCWA.
+- [Bessel beam lithography](scitech/Bessel.html) for serial writing with a non-diffracting, self-healing beam with a very long depth-of-focus.
+- X-ray diffraction optics calculations using [RCWA](scitech/RCWA.html).
 
 ### Micro- and nano-fabrication
 
