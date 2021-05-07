@@ -6,7 +6,7 @@ list_title: X-ray diffraction optics calculations using Rigorous Coupled Wave An
 Testing
 
 
-```{r, setup}
+```{r}
 library(reticulate)
 ```
 
