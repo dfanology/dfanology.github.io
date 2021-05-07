@@ -1,6 +1,6 @@
 ---
 layout: page_nav
-list_title: X-ray diffraction calculations using Rigorous Coupled Wave Analysis
+list_title: X-ray diffraction optics calculations using Rigorous Coupled Wave Analysis
 ---
 
 ```{python}
