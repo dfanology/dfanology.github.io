@@ -23,7 +23,7 @@ $$
 
 where $$p$$ is the periodicity of the image, $$q$$ is the periodicity of the grating, $$\lambda$$ is the wavelength, $$\theta$$ is the diffraction angle, and $$m$$ is the diffraction order (0, 1, 2, ...). From this equation you can see that:
 
-1. The image is at the diffraction limit.
+1. The propagating intensity distribution is z-independent and is therefore non-diffracting.
 2. The image is independent of wavelength. As the wavelength changes so does the diffraction angle, but the $$k$$ vector parallel to the plane remains the same. Therefore the periodicity of the image is fixed by the grating periodicity.
 3. The resolution limit occurs at $$\theta = 90\unicode{xB0}$$ (for the first diffraction order $$m = 1$$) which corresponds to 6.75 nm  for EUV wavelength (i.e. 3.325 nm half-pitch).
 
@@ -85,6 +85,10 @@ I took the refractive indices from a whole bunch of suitable materials for EUV f
 
 ![EUVIL3](EUVIL3.png)*Fig. 3: Left, maximum 1st order diffraction efficiency for various materials and grating periodicities within the range duty cycle 0 to 1 and height 0 to 200 nm. Right, 1st order diffraction efficiency of gratings targeting 6 nm half-pitch on sample wafer for various materials. Each of these plots on the right graph was performed for all the materials and periodicities on the left graph and the maximum value plotted.*
 
+For example, taking a closer look at the family of directly e-beam written grating lines (HfO<sub>2</sub>, SiO<sub>2</sub>, SnO<sub>2</sub>) the diffraction efficiencies calculated using RCWA (Fig. 4) show SnO<sub>2</sub> having the best diffraction efficiency for a target image of 5 nm half-pitch. However, due to e-beam proximity effect the transmission grating lines at 10 nm half-pitch are difficult to fabricate cleanly.
+
+![EUVIL4](EUVIL4.png)*Fig. 4: Comparing diffraction efficiency for EUV, m = 1, targeting various pattern feature sizes (half-pitch in nm) for HfO<sub>2</sub>, SiO<sub>2</sub>, SnO<sub>2</sub> corresponding to different e-beam photoresists from Inpria (HfO<sub>2</sub>, SnO<sub>2</sub>) as well as HSQ (SiO<sub>2</sub>)*
+
 The fabrication limitations for certain grating periodicities together with possible materials and techniques is summarised below:
 
 | Target half-pitch | Grating Periodicity | Material | Technique | Limitations |
@@ -103,15 +107,19 @@ The fabrication strategy to push the resolution limit is as follows:
 - Conformal Ir is coated on the 12/48 nm HSQ grating using plasma enhanced ALD. Plasma enhanced improves surface quality of the deposited material by lowering grain size and deposition rate. The target is 12 nm of Ir deposition.
 - The final Ir coating is ion milled using Ar which is highly directional, removing the top and bottom Ir but leaving the Ir on the sidewalls of the HSQ, resulting in a line doubled grating of ideally 12 nm of Ir (1st sidewall), 12 nm of HSQ (line), 12 nm of Ir (2nd sidewall), 12 nm of air (space).
 
-![EUVIL4](EUVIL4.png)
+![EUVIL5](EUVIL5.png)*Fig. 5: SEM of spatial line-doubled Ir on e-beam written HSQ gratings (48 nm period) on a SiN membrane. a) 12 nm HSQ lines separated by 36 nm covered with 12 nm Ir using ALD. b) Top view. c) After ion milling, the lines are smoother. In all cases the bright lines are Ir, light dark is HSQ, dark is air, and scale bars = 20 nm.
 
-The result is shown in figure 4 above. Further removal of the HSQ via HF dip was considered risky in causing pattern collapse and so was avoided, however a F based plasma etch might be one way to remove the HSQ and further improve the diffraction efficiency. Ion milling (Fig. 4c) has the added benefit of smoothing the rough Ir nanocrystals.
+The result is shown in figure 5 above. Further removal of the HSQ via HF dip was considered risky in causing pattern collapse and so was avoided, however a F based plasma etch might be one way to remove the HSQ and further improve the diffraction efficiency. Ion milling (Fig. 5c) has the added benefit of smoothing the rough Ir nanocrystals.
 
 Although I have briefly outlined the fabrication procedure above, the actual work requires much care in every step, from ensuring absolutely clean beakers, to making sure the droplet of water supporting the SiN membrane during spin-coating is not contaminated, to making sure the SiN membranes themselves where patterned exactly along the wafer crystal planes as any error would result in warped membranes due to stress caused by rough membrane edges. A short list of clean-room / nanofabrication tips and tricks can be found here.
 
 ### Photoresist chemistry
 
 At the limits of operation, there is a tradeoff in photoresists between line-edge roughness, resolution, and sensitivity. For EUV, chemically amplified resists show very good sensitivity for example, but is limited in resolution. For HSQ, this is the opposite: it has low sensitivity making it unsuitable for production due to low throughput, but it has the best resolution and LER.
+
+![EUVIL6](EUVIL6.png){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 6: Patterns produced using EUV-IL using the same HSQ transmission mask with minimum dose and feature size.*
+
+This is shown in figure 6, where more relaxed half-pitch resolutions (11 - 16 nm) using EUV-IL together with other photoresists / development solutions were patterned. The same HSQ direct e-beam written diffraction mask was used in all cases. The dose is the minimum dose for printing the pattern, and clearly demonstrates the trade-off between the different types of photoresists with regards to LER, sensitivity, and resolution.
 
 For pushing the resolution limits, the application of photoresist must be taken into account:
 
@@ -127,9 +135,11 @@ For pushing the resolution limits, the application of photoresist must be taken 
 
 Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (Fig. 5). SEM analysis calculated a pitch of 12.245 nm, critical dimension of 5.7 nm, and duty cycle of 0.458. Given that we used the best performing resist (HSQ) and best EUV-IL tool (XIL-II, PSI), there is no clear way to isolate the problems shown in the structures of figure 5. It could be due to errors in mask fabrication (e.g. LER of mask lines), photoresist pattern collapse (e.g. resolution limit of HSQ, secondary electron effect), and/or tool tolerances (e.g. mechanical vibrations).
 
-![EUVIL5](EUVIL5.png){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 5: 6 nm half-pitch HSQ patterns on silicon substrate fabricated by EUV-IL. Large scale bar = 100 nm, inset scale bar = 20 nm.*
+![EUVIL7](EUVIL7.png){: style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}*Fig. 7: 6 nm half-pitch HSQ patterns on silicon substrate fabricated by EUV-IL. Large scale bar = 100 nm, inset scale bar = 20 nm.*
 
 6 nm corresponds to ~12 silicon atoms or ~18 SiO<sub>2</sub> molecules. Considering secondary electron blur of ~1-3 nm, 6 nm half-pitch may well be the technological resolution limit for EUV lithography. Further decreases in resolution may be accomplished by using a slightly lower wavelength (e.g. EUV+: 12.5 nm), decreasing source extension by using a smaller pinhole, moving the mask further away from the source, improve diffraction mask efficiency by using Ru or removal of HSQ or thinner support membranes (or even Si membranes) to improve transmission efficiency.
+
+Note that the current (as of 2021) in-production technology node of "5 nm" has FinFET pitch sizes of 27 nm (i.e. around 14 nm half-pitch).
 
 ### References
 
