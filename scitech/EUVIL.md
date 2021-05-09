@@ -139,7 +139,7 @@ Putting it all together, a dose of 7500 mJ/cm<sup>2</sup> gave the best result (
 
 6 nm corresponds to ~12 silicon atoms or ~18 SiO<sub>2</sub> molecules. Considering secondary electron blur of ~1-3 nm, 6 nm half-pitch may well be the technological resolution limit for EUV lithography. Further decreases in resolution may be accomplished by using a slightly lower wavelength (e.g. EUV+: 12.5 nm), decreasing source extension by using a smaller pinhole, moving the mask further away from the source, improve diffraction mask efficiency by using Ru or removal of HSQ or thinner support membranes (or even Si membranes) to improve transmission efficiency.
 
-Note that the current (as of 2021) in-production technology node of "5 nm" has FinFET pitch sizes of 27 nm (i.e. around 14 nm half-pitch).
+Note that the current (as of 2021) in-production technology node of "5 nm" has FinFET pitch sizes of 27 nm (i.e. around 14 nm half-pitch). The physics of planar MOSFETs breaks down below 20 nm gate length and 2.5D / 3D structures need to be used for carrier control.
 
 ### References
 
