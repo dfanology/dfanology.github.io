@@ -107,7 +107,7 @@ The fabrication strategy to push the resolution limit is as follows:
 - Conformal Ir is coated on the 12/48 nm HSQ grating using plasma enhanced ALD. Plasma enhanced improves surface quality of the deposited material by lowering grain size and deposition rate. The target is 12 nm of Ir deposition.
 - The final Ir coating is ion milled using Ar which is highly directional, removing the top and bottom Ir but leaving the Ir on the sidewalls of the HSQ, resulting in a line doubled grating of ideally 12 nm of Ir (1st sidewall), 12 nm of HSQ (line), 12 nm of Ir (2nd sidewall), 12 nm of air (space).
 
-![EUVIL5](EUVIL5.png)*Fig. 5: SEM of spatial line-doubled Ir on e-beam written HSQ gratings (48 nm period) on a SiN membrane. a) 12 nm HSQ lines separated by 36 nm covered with 12 nm Ir using ALD. b) Top view. c) After ion milling, the lines are smoother. In all cases the bright lines are Ir, light dark is HSQ, dark is air, and scale bars = 20 nm.
+![EUVIL5](EUVIL5.png)*Fig. 5: SEM of spatial line-doubled Ir on e-beam written HSQ gratings (48 nm period) on a SiN membrane. a) 12 nm HSQ lines separated by 36 nm covered with 12 nm Ir using ALD. b) Top view. c) After ion milling, the lines are smoother. In all cases the bright lines are Ir, light dark is HSQ, dark is air, and scale bars = 20 nm.*
 
 The result is shown in figure 5 above. Further removal of the HSQ via HF dip was considered risky in causing pattern collapse and so was avoided, however a F based plasma etch might be one way to remove the HSQ and further improve the diffraction efficiency. Ion milling (Fig. 5c) has the added benefit of smoothing the rough Ir nanocrystals.
 
