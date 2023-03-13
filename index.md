@@ -25,6 +25,6 @@ B.Eng. Electrical Engineering (Honours), University of Melbourne, Australia (200
 
 ### Research Experience
 
-Departmental Research Fellow, Department of Electrical and Electronic Engineering, University of Melbourne (2023-)  
-Postdoctoral Research Fellow, Delft Center for Systems and Control, TU Delft (2020-2022)  
+Departmental Research Fellow, Department of Electrical and Electronic Engineering, University of Melbourne (2023-) <br />
+Postdoctoral Research Fellow, Delft Center for Systems and Control, TU Delft (2020-2022) <br />
 Postdoctoral Research Fellow, Department of Precision and Microsystems Engineering, TU Delft (2018-2020)
