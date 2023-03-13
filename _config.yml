@@ -8,6 +8,7 @@ show_excerpts: true
 
 minima:
   date_format: "%d %b %Y"
+  skin: dark
 instagram: dfanology
 linkedin: daniel-fan-2a925914
 
