@@ -14,7 +14,6 @@ linkedin: daniel-fan-2a925914
 header_pages:
   - about.md
   - scitech.md
-  - stories.md
   - visual.md
 
 theme: minima
