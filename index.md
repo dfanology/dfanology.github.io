@@ -7,18 +7,18 @@ I am currently a research fellow at the University of Melbourne working broadly 
 
 <b> Open PhD positions! </b> Feel free to contact me at the following email to discuss possible projects: fan dot d at unimelb dot edu dot au
 
-### Publications
+#### Publications
 
 A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en){:target="_blank"}
 
-### Education
+#### Education
 
 D.Sc. Materials Science, ETH Zurich, Switzerland (2013-2017)  
 M.Sc. Micro and Nano Systems, ETH Zurich, Switzerland (2009-2011)  
 B.Sc. Mathematics and Statistics, University of Melbourne, Australia (2001-2005)  
 B.Eng. Electrical Engineering (Honours), University of Melbourne, Australia (2001-2005)
 
-### Research Experience
+#### Research Experience
 
 Departmental Research Fellow, Electrical and Electronic Engineering, University of Melbourne (2023-) <br />
 Postdoctoral Research Fellow, Delft Center for Systems and Control, TU Delft (2020-2022) <br />
