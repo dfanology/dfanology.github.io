@@ -33,7 +33,7 @@ Consulting Electrical Engineer, Aurecon Pte. Ltd. (2007-2009)
 
 #### Academic Genealogy
 
-A fun thing I found at [https://academictree.org](https://academictree.org), my genealogy goes all the way back to Humboldt and Boltzmann!
+A fun thing I found at [https://academictree.org](https://academictree.org), my academic genealogy goes all the way back to Humboldt and Boltzmann and a bunch of physical chemists!
 
 ![Genealogy](/genealogy.jpg){:style="display: block; margin-left: auto; margin-right: auto; width: 80%;"}
 
