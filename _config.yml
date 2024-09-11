@@ -1,12 +1,5 @@
-title:
-author: Daniel Fan
-
-show_excerpts: false
-
 minima:
   date_format: "%d %b %Y"
-instagram: dfanology
-linkedin: daniel-fan-2a925914
 
 header_pages:
   - index.md
