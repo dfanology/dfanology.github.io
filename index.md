@@ -1,6 +1,6 @@
 ---
 layout: page_nav_dark
-title: Daniel's home page
+title: About
 ---
 
 I am currently a research fellow working broadly in the fields of nanotechnology, materials science, optics, and biology. This included thorough and extensive use of nanofabrication techniques in clean-room environments and design and construction of optical setups, in particular EUV lithography, e-beam lithography, 2PP lithography, Raman spectroscopy, fluorescence microscopy with super-resolution techniques, and electron microscopy. My current research interests are lab-on-a-chip nanoscopy for biophysics, organ-on-chip platforms, and precision instrumentation. I originally trained as an electrical engineer and worked for a number of years designing electrical power distribution and control systems for industrial plants. My hobbies include swing dancing, flying light aircraft, and am learning to surf.
