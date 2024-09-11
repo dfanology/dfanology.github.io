@@ -1,7 +1,6 @@
 ---
 layout: page_nav_dark
-title: Science
-list_title: Science / Technology
+title: Research
 ---
 
 ### EUV lithography / X-ray optics
