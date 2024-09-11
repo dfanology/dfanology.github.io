@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page_nav_dark
 title: Daniel's home page
 ---
 
