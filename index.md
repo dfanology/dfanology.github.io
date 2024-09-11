@@ -14,9 +14,9 @@ A list of my publications can be found [here](https://scholar.google.com/citatio
 
 #### Education
 
-B.Sc. Mathematics and Statistics, University of Melbourne, Australia (2001-2005)  
-B.Eng. Electrical Engineering (Honours), University of Melbourne, Australia (2001-2005)
-M.Sc. Micro and Nano Systems, ETH Zurich, Switzerland (2009-2011)  
+B.Sc. Mathematics and Statistics, University of Melbourne, Australia (2001-2005) <br />
+B.Eng. Electrical Engineering (Honours), University of Melbourne, Australia (2001-2005) <br />
+M.Sc. Micro and Nano Systems, ETH Zurich, Switzerland (2009-2011) <br />
 D.Sc. Materials Science, ETH Zurich, Switzerland (2013-2017)  
 
 #### Research Experience
@@ -27,5 +27,12 @@ Postdoctoral Research Fellow, Delft Center for Systems and Control, TU Delft (20
 Departmental Research Fellow, Electrical and Electronic Engineering, University of Melbourne (2023-)
 
 #### Industry Experience
-Consulting Electrical Engineer, Aurecon Pte. Ltd. (2007-2009) <br />
-Field Electrical Engineer, John Holland Pty. Ltd. (2007)
+
+Field Electrical Engineer, John Holland Pty. Ltd. (2007) <br />
+Consulting Electrical Engineer, Aurecon Pte. Ltd. (2007-2009)
+
+#### Academic Genealogy
+
+A fun thing I found at [https://academictree.org](https://academictree.org), my genealogy goes all the way back to Humboldt and Boltzmann!
+
+
