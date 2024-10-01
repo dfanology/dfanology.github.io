@@ -12,7 +12,7 @@ fan dot d at unimelb dot edu dot au
 
 #### <u>Publications</u>
 
-A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en){:target="_blank"}
+A list of my publications can be found [here](https://scholar.google.com/citations?user=kRzcs9YAAAAJ&hl=en)
 
 #### <u>Education</u>
 
